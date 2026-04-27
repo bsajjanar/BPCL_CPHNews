@@ -115,7 +115,7 @@ const CreateNews: React.FC<Props> = ({
 
   const [savedItemId, setSavedItemId] = useState<number | null>(null);
 
-  // const [confidentialTerm, setConfidentialTerm] = useState<any>(null);
+  // const [confidentialTerm, setConfidentialTerm] = useState<any>(null); jdcjdg
   // const [archivalTerm, setArchivalTerm] = useState<any>(null); 
 
   // useEffect(() => {

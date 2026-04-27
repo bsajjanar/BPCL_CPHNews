@@ -12,7 +12,7 @@ import {
   ToggleButton,
   Button,
 } from "react-bootstrap";
-//import "@fontsource/inter";
+//import "@fontsource/inter"; 111
 import "@fontsource/inter/500.css";
 import "@fontsource/inter/600.css";
 import "@fontsource/inter/700.css";
