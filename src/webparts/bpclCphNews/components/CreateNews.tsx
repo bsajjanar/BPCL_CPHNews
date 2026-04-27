@@ -1,6 +1,6 @@
 import * as React from "react";
 import { useState, useEffect } from "react";
-//import "@fontsource/inter"; 
+//import "@fontsource/inter"; 1231
 import "@fontsource/inter/500.css";
 import "@fontsource/inter/600.css";
 import "@fontsource/inter/700.css";
